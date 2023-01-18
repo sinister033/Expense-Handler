@@ -1,0 +1,17 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+/* .btn {
+  background-color: #e3361f;
+  border: 1px solid white;
+  color: white;
+  border-radius: 8px;
+  padding: 0.15rem 0.2rem;
+  margin-left: 25rem;
+} */
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+}
