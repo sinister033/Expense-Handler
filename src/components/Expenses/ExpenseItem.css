@@ -23,6 +23,7 @@
   border-radius: 8px;
   padding: 0.15rem 0.2rem;
   margin-left: 25px;
+  cursor:pointer;
 }
 
 .expense-item h2 {
